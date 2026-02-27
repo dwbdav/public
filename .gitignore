@@ -1,0 +1,14 @@
+@eaDir/
+**/@eaDir/**
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.DS_Store
+Thumbs.db
+*.msi
+*.msp
+*.cab
+*.zip
+*.exe
+*.iso
