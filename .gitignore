@@ -9,8 +9,12 @@ __pycache__/
 **/.vscode/**
 working/
 **/working/**
+_working/
+**/_working/**
 file/Deploy/
 **/file/Deploy/**
 config.json
 **/config.json
+bp_api_php.zip
+**/bp_api_php.zip
 # <<< synchro excludes <<<
