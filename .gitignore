@@ -1,8 +1,12 @@
 # >>> synchro excludes >>>
+@eaDir/
+**/@eaDir/**
 __pycache__/
 **/__pycache__/**
-.*/
-**/.*/
+.git/
+**/.git/**
+.vscode/
+**/.vscode/**
 working/
 **/working/**
 file/Deploy/
