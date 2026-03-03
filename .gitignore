@@ -13,3 +13,9 @@ Thumbs.db
 *.exe
 *.iso
 *.wim
+working/
+**/working/**
+.git/
+**/.git/**
+.vscode/
+**/.vscode/**
