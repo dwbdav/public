@@ -1,21 +1,12 @@
-@eaDir/
-**/@eaDir/**
+# >>> synchro excludes >>>
 __pycache__/
-*.pyc
-*.pyo
-*.log
-.DS_Store
-Thumbs.db
-*.msi
-*.msp
-*.cab
-*.zip
-*.exe
-*.iso
-*.wim
+**/__pycache__/**
+.*/
+**/.*/
 working/
 **/working/**
-.git/
-**/.git/**
-.vscode/
-**/.vscode/**
+file/Deploy/
+**/file/Deploy/**
+config.json
+**/config.json
+# <<< synchro excludes <<<
